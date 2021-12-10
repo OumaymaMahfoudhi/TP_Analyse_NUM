@@ -2,6 +2,8 @@
 # AnalyseNum
 TP ANALYSE
  NUM_ANALYSIS
+ 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OumaymaMahfoudhi/TP_Analyse_NUM/main)
 
  - [TP1]
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
