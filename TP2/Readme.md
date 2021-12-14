@@ -27,11 +27,11 @@
 
 <img src="tche.PNG"  style="width:350px;height:300px;margin-left: auto;margin-right: auto;"/>
 ## Phenomène de Runge:
-> **Dans le domaine mathématique de l'analyse numérique, le phénomène de Runge se manifeste dans le contexte de l'interpolation polynomiale, en particulier l'interpolation de Lagrange. Avec certaines fonctions (même analytiques), l'augmentation du nombre n de points d'interpolation ne constitue pas nécessairement une bonne stratégie d'approximation.**
+**Dans le domaine mathématique de l'analyse numérique, le phénomène de Runge se manifeste dans le contexte de l'interpolation polynomiale, en particulier l'interpolation de Lagrange. Avec certaines fonctions (même analytiques), l'augmentation du nombre n de points d'interpolation ne constitue pas nécessairement une bonne stratégie d'approximation.**
 ### Exercice 2 :
 
 <img src="equi.PNG"  style="width:350px;height:300px;margin-left: auto;margin-right: auto;"/>
-> **On a vu donc que le phénomène de Runge qui se traduit par une mauvaise interpolation,lorsque l'on augmente le degré du polynôme d'interpolation de Lagrange.**
+**On a vu donc que le phénomène de Runge qui se traduit par une mauvaise interpolation,lorsque l'on augmente le degré du polynôme d'interpolation de Lagrange.**
 
 ## Formule de Newton 
 
