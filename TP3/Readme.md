@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/OumaymaMahfoudhi/TP_Analyse_NUM/blob/main/TP3/Animation.gif)
 
-### Résumé :
-
+### Comparison entre les méthodes :
+ 
 
 | Nom de la méthode  	| Degré de polynome 	| Nombre de point 	| Degré d'exactitude  	| Degré d'erreur global 	| Degré d'erreur finale 	|
 |--------------------	|-------------------	|-----------------	|---------------------	|-----------------------	|-----------------------	|
@@ -11,4 +11,4 @@
 | Simpson            	| 2                 	| 3               	| 3                   	| 5                     	| 4                     	|
 
 
-### La méthode Rectangle est la meilleur que les autres methodes puisque elle admet le moindre degré d'ereur 
+### La méthode Rectangle est la meilleur que les autres methodes puisque elle admet le moindre degré d'erreur 
