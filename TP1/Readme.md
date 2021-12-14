@@ -1,4 +1,4 @@
-# TP 1 Resolution d'une fonction f(x)=0
+# TP 1: Resolution d'une fonction f(x)=0
 
 
 
