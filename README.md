@@ -1,11 +1,12 @@
-# TP_Analyse_NUM
-# AnalyseNum
-TP ANALYSE
- NUM_ANALYSIS
+# TP Analyse Numérique 
+
+Consulter le lien suivant pour exécuter le code python de chaque TP :
  
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OumaymaMahfoudhi/TP_Analyse_NUM/main)
 
- - [TP1]
+ - [TP1] 
+ - [TP2]
+ - [TP3]
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -20,12 +21,12 @@ TP ANALYSE
 
 ## Requirements
 
-* [ANACONDA ]
-* [Octave]
-* [Jupyter]
+* **[ANACONDA ]**
+* **[Octave]**
+* **[Jupyter]**
 
 ## Getting started 
-> Dans ce TP, nous allons decouvrir la programmation avec Python et Matlab/Octave on suivre les etapes suivantes 
-> + installation Anaconda 
-> + installation Octave  
-> + l'ajouter de kernel d'octave/Matlab à jupyter lab
+> Dans ces Travaux Pratique , nous allons decouvrir les parties suivantes :
+>### + Résolution de l’équation f(x)=0
+>### + Interplolation polynômiale 
+>### + Intégration numérique 
