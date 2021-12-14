@@ -19,7 +19,7 @@
 > **Donc on va s’intéressé dans ce TP a la reconstruction de f par des polynômes**
 >
 ## Polynome d'interpolation de Lagrange: 
-<img src="Runge.PNG"  style="width:350px;height:300px;margin-left: auto;margin-right: auto;"/>
+<img src="Runge.PNG"  style="width:800px;height💯0px;margin-left: auto;margin-right: auto;"/>
 
 > <h3 style="color:SlateBlue;"> un inconvénient de l’interplation de Lagrange est lorsqu’on ajoute un point xN+1 aux points existants X0,X1, · ·  
 >, Xn , on a recours à recalculer tous les élements Li pour chaque i = 0, · · · , N+1,c’est a dire, de répeter tout le travail et donc une perte 
