@@ -1,4 +1,5 @@
 # TP Analyse Numérique 
+> **L’analyse numérique est une discipline à l'interface des mathématiques et de l'informatique. Elle s’intéresse tant aux fondements qu’à la mise en pratique des méthodes permettant de résoudre, par des calculs purement numériques, des problèmes d’analyse mathématique**
 
 Consulter le lien suivant pour exécuter le code python de chaque TP :
  
