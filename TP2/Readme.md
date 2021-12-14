@@ -43,4 +43,4 @@ avec $L_{0}(x)=\displaystyle\frac{(x-x_1)(x-x_2)\ldots(x-x_{n})}{(x_0-x_1)(x_0-x
 ### Exercice 3 :
 
 <img src="tche.PNG"  style="width:350px;height:300px;margin-left: auto;margin-right: auto;"/>
-### Conclusion 
+
