@@ -31,3 +31,4 @@ Consulter le lien suivant pour exécuter le code python de chaque TP :
 >### + Résolution de l’équation f(x)=0
 >### + Interplolation polynômiale 
 >### + Intégration numérique 
+>
